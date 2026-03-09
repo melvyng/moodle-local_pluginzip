@@ -30,6 +30,7 @@ $string['invalidpluginpath'] = 'Invalid plugin path: {$a}';
 $string['plugin_desc'] = 'Choose the plugin to export';
 $string['pluginname'] = 'Plugin ZIP exporter';
 $string['pluginzip:export'] = 'Plugin ZIP';
+$string['privacy:metadata'] = 'The Plugin replacer plugin does not store any personal data.';
 $string['selectplugin'] = 'Plugin';
 $string['selecttype'] = 'Plugin type';
 $string['type_desc'] = 'Choose the plugin type (mod, local, block, etc.)';
